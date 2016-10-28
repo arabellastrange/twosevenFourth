@@ -36,7 +36,7 @@ public class DequeDeque<E> implements DequeADT<E>{
 	}
 
 	public E removeFirst() {
-		return null;
+		return D.removeFirst();
 	}
 
 	public E removeLast() {
